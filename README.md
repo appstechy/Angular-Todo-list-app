@@ -4,6 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project Screenshot
 ![Project-screenshot](https://github.com/RinkuAppstechy/images/blob/main/screencapture-localhost-4200-2023-08-18-14_01_49.png)
+
+## Project Requirements
+Node version - 18.12.0  
+The database used - MySQL  
+Administration tool used for MySQL - PHPMyAdmin  
+API testing tool - Postman  
+Front-end - Angular  
+Backend - Node  
+Package manager command used - npm  
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
